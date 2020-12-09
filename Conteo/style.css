@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    max-height: 771px;
+    background-color: #D3E7FC;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+button{
+    font-size: 20px;
+    width: 50px;
+    border-radius: 10px;
+}
+.inka{
+    width: 60%;
+    height: 20%;
+    margin-top: 10%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+    color: #666;
+}
+.boxInka{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+
+}
+.coca{
+    width: 60%;
+    height: 20%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+    color: #666;
+}
+.boxCoca{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+}
+.guarana{
+    width: 60%;
+    height: 20%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+
+    color: #666;
+}
+.boxGuarana{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+}
+.beer{
+    width: 60%;
+    height: 20%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+    color: #666;
+
+}
+.boxBeer{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+}
+.agua{
+    width: 60%;
+    height: 20%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+    color: #666;
+}
+.boxAgua{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+}
+.chicha{
+    width: 60%;
+    height: 20%;
+    margin-bottom:5px;
+    background-color: #EFF6F9;
+    font-size: 28px;
+    position: relative;
+    color: #666;
+
+}
+.boxChicha{
+    width: 60%;
+    margin-bottom:5px;
+    background-color: #858E90;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+}
